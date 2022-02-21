@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${vcpkgRoot}/x64-linux/include",
+                "/usr/include/qt/QtWebEngineWidgets",
+                "/usr/include/qt",
+                "/usr/include/qt/QtCore",
+                "/usr/include/qt/QtGui",
+                "/usr/include/qt/QtWebEngineCore",
+                "/usr/include/qt/QtQml",
+                "/usr/include/qt/QtNetwork",
+                "/usr/include/qt/QtQuick",
+                "/usr/include/qt/QtQmlModels",
+                "/usr/include/qt/QtPositioning",
+                "/usr/include/qt/QtWebChannel",
+                "/usr/include/qt/QtWidgets",
+                "/usr/include/qt/QtPrintSupport"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
